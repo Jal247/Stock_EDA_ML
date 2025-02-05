@@ -1,3 +1,19 @@
+The dataset contains multiple sheets, each representing different time periods:
+
+"4th period" (2005-2010)
+
+"3rd period" (2000-2005)
+
+"2nd period" (1995-2000)
+
+"1st period" (1990-1995)
+
+"all period" (1990-2010) – Covers the entire 20-year span
+
+"Time frame" – Contains the timeline details
+
+
+
 **Column Name Explanations**
 ID – Unique identifier for each investment portfolio or customer.
 
